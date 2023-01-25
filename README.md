@@ -7,3 +7,6 @@ A Better Discord Theme Creator written in Dart and Flutter.
 - Sidebar Location
 - Emoji Texture replacement
 - Size Picker
+
+### Other
+This is made by HiddenStorm and Time and we appreciate any and all feedback including forks.
